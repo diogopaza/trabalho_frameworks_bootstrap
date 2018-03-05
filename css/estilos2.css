@@ -1,0 +1,10 @@
+html, body, header, .principal, .container{
+	height: 100%;
+}
+
+
+.principal{
+	background: url(../2.jpg);
+	background-size: cover;
+	
+}
